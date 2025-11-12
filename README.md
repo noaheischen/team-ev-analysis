@@ -6,7 +6,7 @@ In this project we will use online datasets that provide us information about di
 
 ## Team Members
 
-- [Name] - [Role/Contribution] - [Optional: LinkedIn/Email]
+- Brandon Werba - Initial EV and Air Quality analysis
 - [Name] - [Role/Contribution] - [Optional: LinkedIn/Email]
 
 
@@ -14,10 +14,9 @@ In this project we will use online datasets that provide us information about di
 
 Describe the dataset(s) used in your project, including:
 
-- Data source(s) and how the data was collected
-- Time period covered
-- Size of the dataset (number of observations, features)
-- Any preprocessing or cleaning steps taken
+- EV data and Air Quality data taken from Kaggle datasets
+- Data collected from the period 2018-2025.
+- Data organized by state, visualizations created representing state, party affiliation, and air quality.
 
 
 ### Key Variables
