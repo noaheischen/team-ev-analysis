@@ -6,8 +6,11 @@ In this project we will use online datasets that provide us information about di
 
 ## Team Members
 
-- Brandon Werba - Initial EV and Air Quality analysis
-- [Name] - [Role/Contribution] - [Optional: LinkedIn/Email]
+- Brandon Werba
+- Noah Eischen
+- Om Patel
+- Noah Cha-Price
+- Thomas Isaac
 
 
 ## Data Description
